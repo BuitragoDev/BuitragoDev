@@ -16,32 +16,28 @@
 <td width="50%">
 <h3 align="center">Tienda Online</h3>
 <div align="center">
-<a href="https://antoniobuitrago.es/proyecto2" target="_blank"><img src="https://i.imgur.com/wJ6DaP1.png" width="400" alt="Tienda online realizada por completo mediante código"></a>
+<a href="https://antoniobuitrago.es/proyecto2" target="_blank"><img src="https://i.imgur.com/CLYXfrN.png" width="400" alt="Tienda online realizada por completo mediante código"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-1461aa?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Tienda online de videojuegos desarrollada completamente desde cero. La plataforma permite a los usuarios navegar por un amplio catálogo de productos, agregar items al carrito y gestionar sus pedidos. El desarrollo se basó en un stack tecnológico robusto que incluye HTML, CSS para la interfaz, PHP como lenguaje del servidor, JavaScript para interactividad y MySQL para la base de datos. Esta tienda es un ejemplo de cómo combinar diseño atractivo con funcionalidad avanzada.</p>
+<p>Tienda online de videojuegos desarrollada completamente desde cero, tulizando HTML, CSS para la interfaz, PHP como lenguaje del servidor, JavaScript para interactividad y MySQL para la base de datos. La plataforma permite a los usuarios navegar por un amplio catálogo de productos, agregar items al carrito y gestionar sus pedidos.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Portfolio Fotográfico</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://antoniobuitrago.es/proyecto1" target="_blank"><img src="https://i.imgur.com/RWHtXQn.png" width="400" alt="Portfolio Fotográfico"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Portfolio fotográfico personal desarrollado con HTML, CSS y JavaScript. La plataforma presenta una galería dinámica y responsive, permitiendo a los visitantes navegar por mi trabajo de manera intuitiva. Utilicé JavaScript para implementar efectos visuales y transiciones suaves, creando una experiencia de usuario inmersiva.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -50,35 +46,29 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Blog de Baloncesto</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://antoniobuitrago.es/wpnews/" target="_blank"><img src="https://i.imgur.com/mZuW804.png" width="400" alt="Blog de baloncesto"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-d36006?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Blog de baloncesto de ejemplo, desarrollado en WordPress, donde encontrarás análisis de partidos, noticias y opiniones sobre el mundo de la NBA y otras ligas. Con un diseño limpio y fácil de navegar, este blog sería el lugar perfecto para los amantes del baloncesto que buscan información actualizada y de calidad.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">NCA Smart</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://www.ncasmart.com/" target="_blank"><img src="https://i.imgur.com/8TCRcCP.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Formé parte del equipo encargado de la optimización del SEO y realización de mejoras en la página web de la agencia creativa NCA Smart, usando WordPress, durante las prácticas del curso de Desarrollo de Aplicaciones con Tecnologías Web, con el objetivo de aumentar significativamente el tráfico orgánico del sitio web.</p>
 </div>
                                                                                       
 </td>  
