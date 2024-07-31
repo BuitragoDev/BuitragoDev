@@ -6,28 +6,23 @@
 ## Sobre mi
 
 - :desktop_computer: Web developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- :page_facing_up: HTML5 | CSS3 | Javascript | PHP | MySQL | Bootstrap | ReactJS | WordPress
+- :england: He vivido entre 2014 y 2023 en Liverpool, experiencia que me enseñó la importancia de la adaptabilidad y el trabajo en entornos diversos.
 <br>
 
-## Proyectos *bombitas*
+## Proyectos 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Tienda Online</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://antoniobuitrago.es/proyecto2" target="_blank"><img src="https://i.imgur.com/wJ6DaP1.png" width="400" alt="Tienda online realizada por completo mediante código"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-1461aa?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Tienda online de videojuegos desarrollada completamente desde cero. La plataforma permite a los usuarios navegar por un amplio catálogo de productos, agregar items al carrito y gestionar sus pedidos. El desarrollo se basó en un stack tecnológico robusto que incluye HTML, CSS para la interfaz, PHP como lenguaje del servidor, JavaScript para interactividad y MySQL para la base de datos. Esta tienda es un ejemplo de cómo combinar diseño atractivo con funcionalidad avanzada.</p>
 </div>
                                                                                       
 </td>
