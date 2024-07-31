@@ -59,7 +59,7 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">NCA Smart</h3>
+<!-- <h3 align="center">NCA Smart</h3>
 <div align="center">
 <a href="https://www.ncasmart.com/" target="_blank"><img src="https://i.imgur.com/8TCRcCP.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
@@ -68,8 +68,7 @@
 </a>
 </p>
 <p>Formé parte del equipo encargado de la optimización del SEO y realización de mejoras en la página web de la agencia creativa NCA Smart, usando WordPress, durante las prácticas del curso de Desarrollo de Aplicaciones con Tecnologías Web, con el objetivo de aumentar significativamente el tráfico orgánico del sitio web.</p>
-</div>
-                                                                                      
+</div> -->                                                                                      
 </td>  
 </table>                                                                                 
 </div>
