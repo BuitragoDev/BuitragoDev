@@ -1,5 +1,5 @@
 </div>
-<img src="[https://antoniobuitrago.es/recursos/banner.png]">
+<img src="https://imgur.com/a/6QOWF4L">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
