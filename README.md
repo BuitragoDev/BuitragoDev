@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://antoniobuitrago.es">BuitragoDev</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://antoniobuitrago.es">BuitragoDev</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/6QOWF4L">
+<img src="https://i.imgur.com/8nA3os9.png" alt="Mi Banner">
 
 ## Sobre mi
 
