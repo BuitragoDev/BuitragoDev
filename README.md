@@ -17,7 +17,7 @@
 <div align="center">
 <a href="https://antoniobuitrago.es/proyecto2" target="_blank"><img src="https://i.imgur.com/CLYXfrN.png" width="400" alt="Tienda online realizada por completo mediante código"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/BuitragoDev/TiendaVideojuegos" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-1461aa?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
