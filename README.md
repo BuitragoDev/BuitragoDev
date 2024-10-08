@@ -61,7 +61,7 @@
 <td width="50%">
 <h3 align="center">NCA Smart</h3>
 <div align="center">
-<a href="https://github.com/BuitragoDev/Mi-Biblioteca-en-Java-Swing" target="_blank"><img src="https://imgur.com/MNAVK8H" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/BuitragoDev/Mi-Biblioteca-en-Java-Swing" target="_blank"><img src="https://imgur.com/MNAVK8H.jpeg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
