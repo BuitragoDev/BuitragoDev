@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación de Escritorio realizada con Java cuya funcionalidad es crear una base de datos de libros, en la que puedo añadir libros con sus datos, añadirle una imagen de portada y unas fechas de inicio y final si los estoy leyendo o los he leído. Los libros pueden ser modificados o eliminados, ver un listado de ellos e incluso crear un PDF..</p>
+<p>Aplicación de Escritorio realizada con Java cuya funcionalidad es crear una base de datos de libros, en la que puedo añadir libros con sus datos, añadirle una imagen de portada y unas fechas de inicio y final. Los libros pueden ser modificados o eliminados, ver un listado de ellos e incluso crear un PDF..</p>
 </div>                                                                                     
 </td>  
 </table>                                                                                 
