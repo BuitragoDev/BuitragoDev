@@ -59,16 +59,16 @@
 </td>       
 
 <td width="50%">
-<!-- <h3 align="center">NCA Smart</h3>
+<h3 align="center">NCA Smart</h3>
 <div align="center">
-<a href="https://www.ncasmart.com/" target="_blank"><img src="https://i.imgur.com/8TCRcCP.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/BuitragoDev/Mi-Biblioteca-en-Java-Swing" target="_blank"><img src="https://imgur.com/MNAVK8H" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Formé parte del equipo encargado de la optimización del SEO y realización de mejoras en la página web de la agencia creativa NCA Smart, usando WordPress, durante las prácticas del curso de Desarrollo de Aplicaciones con Tecnologías Web, con el objetivo de aumentar significativamente el tráfico orgánico del sitio web.</p>
-</div> -->                                                                                      
+<p>Aplicación de Escritorio realizada con Java cuya funcionalidad es crear una base de datos de libros, en la que puedo añadir libros con sus datos, añadirle una imagen de portada y unas fechas de inicio y final si los estoy leyendo o los he leído. Los libros pueden ser modificados o eliminados, ver un listado de ellos e incluso crear un PDF..</p>
+</div>                                                                                     
 </td>  
 </table>                                                                                 
 </div>
