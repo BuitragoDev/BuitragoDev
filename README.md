@@ -78,13 +78,13 @@
 <td width="50%">
 <h3 align="center">Aplicación de Escritorio con C#</h3>
 <div align="center">
-<a href="https://github.com/BuitragoDev/LifeManager" target="_blank"><img src="https://i.imgur.com/mZuW804.png" width="400" alt="Blog de baloncesto"></a>
+<a href="https://github.com/BuitragoDev/LifeManager" target="_blank"><img src="https://i.imgur.com/By3eM3C.png" width="400" alt="Blog de baloncesto"></a>
 <p>
 <a href="https://github.com/BuitragoDev/LifeManager" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-0589B0?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Aplicación de Escritorio realizada en Visual Studio, usando Windows Forms, SQLite y C#. La funcionalidad de la aplicación es un lugar en el que poder guardar anotaciones, contraseñas y tener un listado de los libros leídos, así como las películas y series de TV que has visto, con todos sus datos y fechas de lectura o visionado.</p>
+<p>LifeManager es una Aplicación de Escritorio realizada en Visual Studio, usando Windows Forms, SQLite y C#. LifeManager es un lugar en el que poder guardar anotaciones, contraseñas y tener un listado de los libros leídos, películas y series de TV que has visto, con todos sus datos y fechas de lectura o visionado.</p>
 </div>
                                                                                       
 </td>       
