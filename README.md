@@ -6,7 +6,7 @@
 ## Sobre mi
 
 - :desktop_computer: Web developer | Frontend | Backend
-- :page_facing_up: HTML5 | CSS3 | Javascript | PHP | MySQL | Bootstrap | ReactJS | WordPress
+- :page_facing_up: HTML5 | CSS3 | Javascript | PHP | MySQL | Bootstrap | ReactJS | WordPress | Python | Java | C#
 - :england: He vivido entre 2014 y 2023 en Liverpool, experiencia que me enseñó la importancia de la adaptabilidad y el trabajo en entornos diversos.
 
 ## Proyectos 
