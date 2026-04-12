@@ -13,16 +13,16 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Tienda Online</h3>
-<div align="center">
-<a href="https://antoniobuitrago.es/proyecto2" target="_blank"><img src="https://i.imgur.com/CLYXfrN.png" width="400" alt="Tienda online realizada por completo mediante código"></a>
-<p>
-<a href="https://github.com/BuitragoDev/TiendaVideojuegos" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-1461aa?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-<p>Tienda online de videojuegos desarrollada completamente desde cero, tulizando HTML, CSS para la interfaz, PHP como lenguaje del servidor, JavaScript para interactividad y MySQL para la base de datos. La plataforma permite a los usuarios navegar por un amplio catálogo de productos, agregar items al carrito y gestionar sus pedidos.</p>
-</div>
+  <h3 align="center">Tienda Online</h3>
+  <div align="center">
+  <a href="https://antoniobuitrago.es/proyecto2" target="_blank"><img src="https://i.imgur.com/CLYXfrN.png" width="400" alt="Tienda online realizada por completo mediante código"></a>
+  <p>
+  <a href="https://github.com/BuitragoDev/TiendaVideojuegos" target="_blank">
+  <img src="https://img.shields.io/badge/CÓDIGO-1461aa?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  </p>
+  <p>Tienda online de videojuegos desarrollada completamente desde cero, tulizando HTML, CSS para la interfaz, PHP como lenguaje del servidor, JavaScript para interactividad y MySQL para la base de datos. La plataforma permite a los usuarios navegar por un amplio catálogo de productos, agregar items al carrito y gestionar sus pedidos.</p>
+  </div>
                                                                                       
 </td>
 
@@ -87,8 +87,20 @@
 </td>       
 
 <td width="50%">
-                                                                            
-</td>  
+<h3 align="center">ISS Tracker con Django</h3>
+<div align="center">                                       
+<a href="https://github.com/BuitragoDev/iss-tracker" target="_blank"><img src="https://ibb.co/kgnwzYQz" width="400" alt="Aplicación Web Django"></a>
+<br>
+<p>
+<a href="https://github.com/BuitragoDev/iss-tracker" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Aplicación web profesional construida con Django para rastrear la Estación Espacial Internacional (ISS) en tiempo real, procesando datos históricos y visualizando estadísticas mediante Pandas y Matplotlib. Incluye mapa interactivo con Leaflet, gráficos dinámicos y API REST.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br> 
 </table> 
 </div>
 <br>
