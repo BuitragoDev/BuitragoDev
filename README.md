@@ -8,7 +8,7 @@
 
 - :desktop_computer: Web developer | Frontend | Backend
 - :page_facing_up: HTML5 | CSS3 | Bootstrap | Javascript | PHP | Python | Java | C#  | MySQL | Oracle | SQLite | MongoDB | Django | WordPress
-- :spain: He vivido entre 2014 y 2024 en Liverpool, experiencia que me enseñó la importancia de la adaptabilidad y el trabajo en entornos diversos.
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿: He vivido entre 2014 y 2024 en Liverpool, experiencia que me enseñó la importancia de la adaptabilidad y el trabajo en entornos diversos.
 
 ## Proyectos
 
